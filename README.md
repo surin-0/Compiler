@@ -31,7 +31,7 @@
   * 프로그램 module hierarchy
   * 실행 결과
 
-## hwe
+## hw3
 **bottom-up parsing을 이용한 mini-c 인터프리터 개발**
 
 ### 개요
@@ -40,7 +40,7 @@
   * if문의 경우 else와 함께 쓰인 경우만 인정
   * 중첩 if문 허용
   * 선택 사항 : 함수, return문 (**구현 완료**)
-- 자세한 내용은 [보고서](https://github.com/surin-0/Compiler/blob/master/hw2/hw2_201720723_report.pdf)를 참고
+- 자세한 내용은 [보고서](https://github.com/surin-0/Compiler/blob/master/hw3/hw3_201720723_report.pdf)를 참고
   * grammar rule 분석
   * 주요 자료구조
   * 프로그램 module hierarchy
